@@ -23,13 +23,13 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 2021
 
-* **[FME]**1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting(MM 21)[[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
+* **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting(MM 21)[[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 
-* **[DLMR]**Deep Learning for Micro-expression Recognition: A Survey(arXiv)[[paper]](https://arxiv.org/abs/2107.02823)
+* **[DLMR] ** Deep Learning for Micro-expression Recognition: A Survey(arXiv)[[paper]](https://arxiv.org/abs/2107.02823)
 
-* **[RAMR]**Review of Automatic Microexpression Recognition in the Past Decade(MAKE 21)[[paper]](https://www.mdpi.com/2504-4990/3/2/21)
+* **[RAMR] ** Review of Automatic Microexpression Recognition in the Past Decade(MAKE 21)[[paper]](https://www.mdpi.com/2504-4990/3/2/21)
 
-* **[ASMR]**A survey of micro-expression recognition(IMAVIS 21)[[paper]](https://www.sciencedirect.com/science/article/pii/S026288562030175X)
+* **[ASMR]** A survey of micro-expression recognition(IMAVIS 21)[[paper]](https://www.sciencedirect.com/science/article/pii/S026288562030175X)
 
 * **[MEST]**Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain(IJCAI 21)[[paper]](https://www.ijcai.org/proceedings/2021/0164)
 
