@@ -39,9 +39,9 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[MRAU]** Micro-Expression Recognition Based on Facial Graph Representation Learning and Facial Action Unit Fusion(CVPR 21)[[paper]](https://openaccess.thecvf.com/content/CVPR2021W/AUVi/html/Lei_Micro-Expression_Recognition_Based_on_Facial_Graph_Representation_Learning_and_Facial_CVPRW_2021_paper.html)
 
-* **[MCAC] **Micro-Expression Classification Based on Landmark Relations With Graph Attention Convolutional Network(CVPR 21)[[paper]](https://openaccess.thecvf.com/content/CVPR2021W/AMFG/html/Kumar_Micro-Expression_Classification_Based_on_Landmark_Relations_With_Graph_Attention_Convolutional_CVPRW_2021_paper.html)
+* **[MCAC]** Micro-Expression Classification Based on Landmark Relations With Graph Attention Convolutional Network(CVPR 21)[[paper]](https://openaccess.thecvf.com/content/CVPR2021W/AMFG/html/Kumar_Micro-Expression_Classification_Based_on_Landmark_Relations_With_Graph_Attention_Convolutional_CVPRW_2021_paper.html)
 
-* **[MDMO] **Sparse MDMO: Learning a Discriminative Feature for Micro-Expression Recognition(IEEE Transactions on Affective Computing)[[paper]](https://ieeexplore.ieee.org/abstract/document/8408485)
+* **[MDMO]** Sparse MDMO: Learning a Discriminative Feature for Micro-Expression Recognition(IEEE Transactions on Affective Computing)[[paper]](https://ieeexplore.ieee.org/abstract/document/8408485)
 
 * **[CMRB]** Cross-Database Micro-Expression Recognition: A Benchmark()[[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
 
