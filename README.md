@@ -141,7 +141,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[MREC]** Micro-Expression Recognition with Expression-State Constrained Spatio-Temporal Feature Representations (MM 16)[[paper]](https://dl.acm.org/doi/abs/10.1145/2964284.2967247)
 
-* **[DFMR]** Selective deep features for micro-expression recognition (International Conference on Pattern Recognition)[[paper]](https://ieeexplore.ieee.org/abstract/document/7899972)
+* **[DFMR]** Selective deep features for micro-expression recognition (ICPR 16)[[paper]](https://ieeexplore.ieee.org/abstract/document/7899972)
 
 * **[DROF]** A Main Directional Mean Optical Flow Feature for Spontaneous Micro-Expression Recognition (TAFFC 16)[[paper]](https://ieeexplore.ieee.org/abstract/document/7286757)
 
