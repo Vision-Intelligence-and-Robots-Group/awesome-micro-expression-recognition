@@ -133,7 +133,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[DMSF]** A main directional maximal difference analysis for spotting facial movements from long-term videos ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing))[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231216315107)
 
-* **[SFM]** Spotting facial micro-expressions “In the Wild” ()[[paper]](https://cmp.felk.cvut.cz/~cechj/ME/)
+* **[SFM]** Spotting facial micro-expressions “In the Wild” (CVWW 17)[[paper]](https://cmp.felk.cvut.cz/~cechj/ME/)
 
   
 
