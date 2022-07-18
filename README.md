@@ -29,6 +29,6 @@ A Github repository and collection of documents, papers, source code, and talks 
 + **[LwF]** Learning without Forgetting(ECCV 2016)[[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)[[code]](https://github.com/lizhitwo/LearningWithoutForgetting)![GitHub stars](https://img.shields.io/github/stars/lizhitwo/LearningWithoutForgetting.svg?logo=github&label=Stars)
 
 
-## 8 Contact Us <span id='contact-us'></span>
+## Contact Us <span id='contact-us'></span>
 
 Should there be any concerns on this page, please don't hesitate to let us know via [hongxiaopeng@ieee.org](mailto:hongxiaopeng@ieee.org) or [xxx@126.com](mailto:xxxx@126.com).
