@@ -12,10 +12,10 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 *  Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
 * An overview of research development of affective computing and understanding. (JIG 22, most in Chinese) [[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20220614)
-* Deep Learning for Micro-expression Recognition: A Survey. (arXiv) [[paper]](https://arxiv.org/abs/2107.02823)
+* Deep Learning for Micro-expression Recognition: A Survey. (arXiv 21) [[paper]](https://arxiv.org/abs/2107.02823)
 * Review of automatic microexpression recognition in the past decade. (Machine Learning and Knowledge Extraction)[[paper]](https://www.mdpi.com/2504-4990/3/2/21)
 * A survey of micro-expression recognition. (IVC 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S026288562030175X?casa_token=394n0AsRvlEAAAAA:wpmP6KMdVERB2ML4zsS8HGAVdIlqN1dvyKCpIx-7x19CnfmyP5GKhQmNdBqZgUS0AsEv45Xtkf0)
-* A survey: facial micro-expression recognition. (Multimedia Tools and Applications 18) [[paper]](https://link.springer.com/article/10.1007/s11042-017-5317-2)
+* A survey: facial micro-expression recognition. (MTA 18) [[paper]](https://link.springer.com/article/10.1007/s11042-017-5317-2)
 
 ### 1.2 Analysis & Study
 
@@ -26,7 +26,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 ### 1.3 Datasets
 
 * **[CAS(ME)^3]** CAS(ME)^3: A Third Generation Facial Spontaneous Micro-Expression Database with Depth Information and High Ecological Validity (TPAMI 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9774929)
-* **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
+* **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
 * **[MMEW]** Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
 * **[SAMM]** SAMM: A Spontaneous Micro-Facial Movement Dataset (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7492264)
 * **[CAS(ME)^2]** CAS(ME)^2: A database for spontaneous macro-expression and micro-expression spotting and recognition (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7820164)
