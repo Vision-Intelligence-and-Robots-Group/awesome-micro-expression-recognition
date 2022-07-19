@@ -15,7 +15,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 1.3 Datasets
 
-* **[CAS(ME)3]** CAS(ME)^3: A Third Generation Facial Spontaneous Micro-Expression Database with Depth Information and High Ecological Validity (TPAMI 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9774929)
+* **[CAS(ME)^3]** CAS(ME)^3: A Third Generation Facial Spontaneous Micro-Expression Database with Depth Information and High Ecological Validity (TPAMI 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9774929)
 * **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
 
 
