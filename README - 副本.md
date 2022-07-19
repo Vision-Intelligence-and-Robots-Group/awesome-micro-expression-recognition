@@ -10,34 +10,14 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 1.1 Surveys
 
-*  Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
-* An overview of research development of affective computing and understanding. (JIG 22, most in Chinese) [[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20220614)
-* Deep Learning for Micro-expression Recognition: A Survey. (arXiv) [[paper]](https://arxiv.org/abs/2107.02823)
-* Review of automatic microexpression recognition in the past decade. (Machine Learning and Knowledge Extraction)[[paper]](https://www.mdpi.com/2504-4990/3/2/21)
-* A survey of micro-expression recognition. (IVC 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S026288562030175X?casa_token=394n0AsRvlEAAAAA:wpmP6KMdVERB2ML4zsS8HGAVdIlqN1dvyKCpIx-7x19CnfmyP5GKhQmNdBqZgUS0AsEv45Xtkf0)
-* A survey: facial micro-expression recognition. (Multimedia Tools and Applications 18) [[paper]](https://link.springer.com/article/10.1007/s11042-017-5317-2)
 
 ### 1.2 Analysis & Study
-
-* Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
-* **[MSNB]** Micro-expression spotting: A new benchmark (Neurocomputing) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100268X)
-* **[CMRB]** Cross-Database Micro-Expression Recognition: A Benchmark (TKDE 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
 
 ### 1.3 Datasets
 
 * **[CAS(ME)^3]** CAS(ME)^3: A Third Generation Facial Spontaneous Micro-Expression Database with Depth Information and High Ecological Validity (TPAMI 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9774929)
 * **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
-* **[MMEW]** Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
-* **[SAMM]** SAMM: A Spontaneous Micro-Facial Movement Dataset (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7492264)
-* **[CAS(ME)^2]** CAS(ME)^2: A database for spontaneous macro-expression and micro-expression spotting and recognition (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7820164)
-* **[CASME2]** CASME II: An improved spontaneous micro-expression database and the baseline evaluation (PLoS ONE) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086041)
-* **[MEVIEW]** Spotting facial micro-expressions “In the Wild” (CVWW 17) [[paper]](https://cmp.felk.cvut.cz/~cechj/ME/)
-* **[CASME]** CASME database: a dataset of spontaneous micro-expressions collected from neutralized faces (FG 13) [[paper]](https://ieeexplore.ieee.org/abstract/document/6553799)
-* **[SMIC]** A spontaneous micro facial expression database: inducement, collection and baseline (FG 13) [[paper]](https://ieeexplore.ieee.org/abstract/document/6553717)
 
-### 1.4 FME/MEGC report
-
-* **[MEGC20]** The Third Facial Micro-Expression Grand Challenge (FG 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9320264)
 
 ## 2  Papers <span id='survey'></span>
 
@@ -54,7 +34,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[DLMR]** Deep Learning for Micro-expression Recognition: A Survey (arXiv) [[paper]](https://arxiv.org/abs/2107.02823)
 
-* Review of Automatic Microexpression Recognition in the Past Decade (MAKE 21) [[paper]](https://www.mdpi.com/2504-4990/3/2/21)
+* **[RAMR]** Review of Automatic Microexpression Recognition in the Past Decade (MAKE 21) [[paper]](https://www.mdpi.com/2504-4990/3/2/21)
 
 * **[ASMR]** A survey of micro-expression recognition (IMAVIS 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S026288562030175X)
 
@@ -88,7 +68,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[MSNB]** Micro-expression spotting: A new benchmark (Neurocomputing) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100268X)
 
-* **[MMEW]** Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
+* **[VMS]** Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
 
 * 
 
@@ -138,7 +118,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[FMCS]** Facial micro-expressions grand challenge 2018 summary (FG 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8373899)
 
-* **[MAG]** **[HIGO-TOP]** Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
+* **[TRHE]** Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
 
 * **[HSDM]** Learning from hierarchical spatiotemporal descriptors for micro-expression recognition (TMM 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8328869)
 
@@ -164,7 +144,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[DMSF]** A main directional maximal difference analysis for spotting facial movements from long-term videos ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231216315107)
 
-* **[MEVIEW]** Spotting facial micro-expressions “In the Wild” (CVWW 17) [[paper]](https://cmp.felk.cvut.cz/~cechj/ME/)
+* **[SFM]** Spotting facial micro-expressions “In the Wild” (CVWW 17) [[paper]](https://cmp.felk.cvut.cz/~cechj/ME/)
 
   
 
@@ -210,6 +190,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[CASME2]** CASME II: An improved spontaneous micro-expression database and the baseline evaluation (PLoS ONE) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086041)
 
+  
 
 ### 2013
 
