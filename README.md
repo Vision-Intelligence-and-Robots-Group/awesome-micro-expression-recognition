@@ -38,6 +38,9 @@ A Github repository and collection of documents, papers, source code, and talks 
 ### 1.4 FME/MEGC report
 
 * **[MEGC20]** The Third Facial Micro-Expression Grand Challenge (FG 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9320264)
+* **[MEGC19]** The Second Facial Micro-Expressions Grand Challenge (FG 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756611)
+* **[MEGC18]** Facial micro-expressions grand challenge 2018 summary (FG 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8373899)
+* **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 
 ## 2  Papers <span id='survey'></span>
 
@@ -116,7 +119,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 2019
 
-* **[MEGC]** The Second Facial Micro-Expressions Grand Challenge (FG 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756611)
+* **[MEGC19]** The Second Facial Micro-Expressions Grand Challenge (FG 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756611)
 
 * **[SRCN]** Spatiotemporal recurrent convolutional networks for recognizing spontaneous micro-expressions (TMM 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8777194)
 
@@ -136,7 +139,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 2018
 
-* **[FMCS]** Facial micro-expressions grand challenge 2018 summary (FG 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8373899)
+* **[MEGC18]** Facial micro-expressions grand challenge 2018 summary (FG 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8373899)
 
 * **[MAG]** **[HIGO-TOP]** Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
 
