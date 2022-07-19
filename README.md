@@ -16,7 +16,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 * Review of automatic microexpression recognition in the past decade. (Machine Learning and Knowledge Extraction)[[paper]](https://www.mdpi.com/2504-4990/3/2/21)
 * A survey of micro-expression recognition. (IVC 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S026288562030175X?casa_token=394n0AsRvlEAAAAA:wpmP6KMdVERB2ML4zsS8HGAVdIlqN1dvyKCpIx-7x19CnfmyP5GKhQmNdBqZgUS0AsEv45Xtkf0)
 * A survey: facial micro-expression recognition. (MTA 18) [[paper]](https://link.springer.com/article/10.1007/s11042-017-5317-2)
-* A Survey of Automatic Facial Micro-Expression Analysis: Databases, Methods, and Challenges(Frontiers in Psychology) [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01128/full)
+* A Survey of Automatic Facial Micro-Expression Analysis: Databases, Methods, and Challenges (Frontiers in Psychology) [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01128/full)
 
 ### 1.2 Analysis & Study
 
