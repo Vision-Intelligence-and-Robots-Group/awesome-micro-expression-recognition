@@ -132,6 +132,8 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[CAS(ME)^2]** CAS(ME)^2: A database for spontaneous macro-expression and micro-expression spotting and recognition (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7820164)
 
+* **[MSAF]** Can Micro-Expression be Recognized Based on Single Apex Frame? (ICIP 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8451376)
+
   
 
 ### 2017
