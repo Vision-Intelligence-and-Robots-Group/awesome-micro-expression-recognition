@@ -90,6 +90,8 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[GSMR]** A novel graph-tcn with a graph structured representation for micro-expression recognition (MM 20) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413714)
 
+* **[FRCD]** Automatic 4D Facial Expression Recognition via Collaborative Cross-domain Dynamic Image Network (arxiv) [[paper]](https://arxiv.org/abs/1905.02319)
+
   
 
 ### 2019
