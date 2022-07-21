@@ -187,8 +187,6 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[SFMS]** Spontaneous facial micro-expression analysis using spatiotemporal completed local quantized patterns ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231215015726)
 
-* **[LwF]** Learning without Forgetting (ECCV 16) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37) [[code]](https://github.com/lizhitwo/LearningWithoutForgetting)![GitHub stars](https://img.shields.io/github/stars/lizhitwo/LearningWithoutForgetting.svg?logo=github&label=Stars)
-
   
 
 ### 2015
