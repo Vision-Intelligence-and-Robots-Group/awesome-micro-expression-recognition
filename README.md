@@ -123,7 +123,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[SRCN]** Spatiotemporal recurrent convolutional networks for recognizing spontaneous micro-expressions (TMM 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8777194)
 
-* **[FOMR]** Fuzzy Histogram of Optical Flow Orientations for Micro-Expression Recognition (TAFFC 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/7971947)
+* **[FHOF]** Fuzzy Histogram of Optical Flow Orientations for Micro-Expression Recognition (TAFFC 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/7971947)
 
 * **[DLBP]** Discriminative Spatiotemporal Local Binary Pattern with Revisited Integral Projection for Spontaneous Facial Micro-Expression Recognition (TAFFC 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/7942140)
 
@@ -143,9 +143,9 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[MAG]** **[HIGO-TOP]** Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
 
-* **[HSDM]** Learning from hierarchical spatiotemporal descriptors for micro-expression recognition (TMM 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8328869)
+* **[HSD]** Learning from hierarchical spatiotemporal descriptors for micro-expression recognition (TMM 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8328869)
 
-* **[RSMR]** Domain regeneration for cross-database micro-expression recognition (TIP 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8268553)
+* **[DRCD]** Domain regeneration for cross-database micro-expression recognition (TIP 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8268553)
 
 * **[CFD]** Cfd: A collaborative feature difference method for spontaneous micro-expression spotting (ICIP 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8451065)
 
@@ -173,15 +173,15 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 2016
 
-* **[MREC]** Micro-Expression Recognition with Expression-State Constrained Spatio-Temporal Feature Representations (MM 16) [[paper]](https://dl.acm.org/doi/abs/10.1145/2964284.2967247)
+* Micro-Expression Recognition with Expression-State Constrained Spatio-Temporal Feature Representations (MM 16) [[paper]](https://dl.acm.org/doi/abs/10.1145/2964284.2967247)
 
 * **[DFMR]** Selective deep features for micro-expression recognition (ICPR 16) [[paper]](https://ieeexplore.ieee.org/abstract/document/7899972)
 
-* **[DROF]** A Main Directional Mean Optical Flow Feature for Spontaneous Micro-Expression Recognition (TAFFC 16) [[paper]](https://ieeexplore.ieee.org/abstract/document/7286757)
+* **[MDOF]** A Main Directional Mean Optical Flow Feature for Spontaneous Micro-Expression Recognition (TAFFC 16) [[paper]](https://ieeexplore.ieee.org/abstract/document/7286757)
 
 * **[CCLF]** Capturing correlations of local features for image representation ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231215018949)
 
-* **[TUR]** LBP-TOP: a Tensor Unfolding Revisit (ACCV 16) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-54407-6_34)
+* **[LBP-TOP]** LBP-TOP: a Tensor Unfolding Revisit (ACCV 16) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-54407-6_34)
 
 * **[SFMS]** Spontaneous facial micro-expression analysis using spatiotemporal completed local quantized patterns ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231215015726)
 
@@ -191,7 +191,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[MRCS]** Micro-Expression Recognition Using Color Spaces (TIP 15) [[paper]](https://ieeexplore.ieee.org/abstract/document/7312991)
 
-* **[TRHE]** Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-Expression Spotting and Recognition Methods (TAFFC 15) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
+* Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-Expression Spotting and Recognition Methods (TAFFC 15) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
 
 * **[BPIP]** Facial micro-expression recognition using spatiotemporal local binary pattern with integral projection (ICCV 15) [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015_workshops/w2/html/Huang_Facial_Micro-Expression_Recognition_ICCV_2015_paper.html)
 
