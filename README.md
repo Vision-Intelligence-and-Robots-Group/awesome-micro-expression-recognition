@@ -21,8 +21,8 @@ A Github repository and collection of documents, papers, source code, and talks 
 ### 1.2 Analysis & Study
 
 * Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
-* **[MSNB]** Micro-expression spotting: A new benchmark (Neurocomputing) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100268X)
-* **[CMRB]** Cross-Database Micro-Expression Recognition: A Benchmark (TKDE 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
+* Micro-expression spotting: A new benchmark (Neurocomputing) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100268X)
+* **[CMR]** Cross-Database Micro-Expression Recognition: A Benchmark (TKDE 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
 
 ### 1.3 Datasets
 
@@ -53,17 +53,17 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 2021
 
-* **[STME]** Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition (arxiv) [[paper]](https://arxiv.org/abs/2112.05851)
+* **[SLT]** Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition (arxiv) [[paper]](https://arxiv.org/abs/2112.05851)
 
 * **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 
-* **[DLMR]** Deep Learning for Micro-expression Recognition: A Survey (arXiv) [[paper]](https://arxiv.org/abs/2107.02823)
+* Deep Learning for Micro-expression Recognition: A Survey (arXiv) [[paper]](https://arxiv.org/abs/2107.02823)
 
 * Review of Automatic Microexpression Recognition in the Past Decade (MAKE 21) [[paper]](https://www.mdpi.com/2504-4990/3/2/21)
 
-* **[ASMR]** A survey of micro-expression recognition (IMAVIS 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S026288562030175X)
+* A survey of micro-expression recognition (IMAVIS 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S026288562030175X)
 
-* **[MEST]** Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain (IJCAI 21) [[paper]](https://www.ijcai.org/proceedings/2021/0164)
+* **[MMST]** Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain (IJCAI 21) [[paper]](https://www.ijcai.org/proceedings/2021/0164)
 
 * **[GEME]** GEME: Dual-stream multi-task GEnder-based micro-expression recognition (Neurocomputing 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231220316957)
 
@@ -71,13 +71,13 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[MRAU]** Micro-Expression Recognition Based on Facial Graph Representation Learning and Facial Action Unit Fusion (CVPRW 21) [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/AUVi/html/Lei_Micro-Expression_Recognition_Based_on_Facial_Graph_Representation_Learning_and_Facial_CVPRW_2021_paper.html)
 
-* **[MCAC]** Micro-Expression Classification Based on Landmark Relations With Graph Attention Convolutional Network (CVPR 21) [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/AMFG/html/Kumar_Micro-Expression_Classification_Based_on_Landmark_Relations_With_Graph_Attention_Convolutional_CVPRW_2021_paper.html)
+* **[GACN]** Micro-Expression Classification Based on Landmark Relations With Graph Attention Convolutional Network (CVPR 21) [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/AMFG/html/Kumar_Micro-Expression_Classification_Based_on_Landmark_Relations_With_Graph_Attention_Convolutional_CVPRW_2021_paper.html)
 
 * **[MDMO]** Sparse MDMO: Learning a Discriminative Feature for Micro-Expression Recognition (TAFFC 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/8408485)
 
-* **[CMRB]** Cross-Database Micro-Expression Recognition: A Benchmark (TKDE 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
+* **[CDMB]** Cross-Database Micro-Expression Recognition: A Benchmark (TKDE 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
 
-* **[CMRD]** Cross-database Micro-Expression Recognition with Deep Convolutional Networks (TKDE 21) [[paper]]()
+* **[CDCN]** Cross-database Micro-Expression Recognition with Deep Convolutional Networks (TKDE 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3345336.3345343)
 
 * **[AUMC]** Facial Action Unit Detection with Local Key Facial Sub-region based Multi-label Classification for Micro-expression Analysis (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3476100.3484462)
 
@@ -89,13 +89,11 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[TDMS]** Local Temporal Pattern and Data Augmentation for Micro-Expression Spotting (TAFFC 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9195783)
 
-* **[AUSC]** Micro-expression action unit detection with spatial and channel attention (Neurocomputing) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221000539)
+* **[SCA]** Micro-expression action unit detection with spatial and channel attention (Neurocomputing) [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221000539)
 
 * **[MSNB]** Micro-expression spotting: A new benchmark (Neurocomputing) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100268X)
 
-* **[MMEW]** Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
-
-* 
+* Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
 
   
 
@@ -107,7 +105,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[RIWM]** Revealing the Invisible With Model and Data Shrinking for Composite-Database Micro-Expression Recognition (TIP 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9178431)
 
-* **[CAKD]** Cross-database micro-expression recognition: A benchmark (TKDE 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
+* Cross-database micro-expression recognition: A benchmark (TKDE 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
 
 * **[ACMR]** Au-assisted graph attention convolutional network for micro-expression recognition (MM 20) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3414012)
 
@@ -127,7 +125,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[FOMR]** Fuzzy Histogram of Optical Flow Orientations for Micro-Expression Recognition (TAFFC 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/7971947)
 
-* **[DSLB]** Discriminative Spatiotemporal Local Binary Pattern with Revisited Integral Projection for Spontaneous Facial Micro-Expression Recognition (TAFFC 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/7942140)
+* **[DLBP]** Discriminative Spatiotemporal Local Binary Pattern with Revisited Integral Projection for Spontaneous Facial Micro-Expression Recognition (TAFFC 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/7942140)
 
 * **[OMRS]** Off-ApexNet on Micro-Expression Recognition System (Signal Processing: Image Communication) [[paper]](https://www.sciencedirect.com/science/article/pii/S0923596518310038)
 
