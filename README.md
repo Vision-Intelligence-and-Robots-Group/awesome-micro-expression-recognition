@@ -10,31 +10,35 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 1.1 Surveys
 
-*  Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
+* An overview of facial micro-expression analysis: Data, methodology and challenge. (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9684697/)
 * An overview of research development of affective computing and understanding. (JIG 22, most in Chinese) [[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20220614)
+* Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms. (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
+* Review of automatic microexpression recognition in the past decade. (Machine Learning and Knowledge Extraction 21)[[paper]](https://www.mdpi.com/2504-4990/3/2/21)
 * Deep Learning for Micro-expression Recognition: A Survey. (arXiv 21) [[paper]](https://arxiv.org/abs/2107.02823)
-* Review of automatic microexpression recognition in the past decade. (Machine Learning and Knowledge Extraction)[[paper]](https://www.mdpi.com/2504-4990/3/2/21)
 * A survey of micro-expression recognition. (IVC 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S026288562030175X?casa_token=394n0AsRvlEAAAAA:wpmP6KMdVERB2ML4zsS8HGAVdIlqN1dvyKCpIx-7x19CnfmyP5GKhQmNdBqZgUS0AsEv45Xtkf0)
+* Review of micro-expression spotting and recognition in video sequences. (Virtual Reality & Intelligent Hardware 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S2096579620301133)
+* Micro-expression recognition: an updated review of current trends, challenges and solutions. (The Visual Computer 20) [[paper]](https://link.springer.com/article/10.1007/s00371-018-1607-6)
 * A survey: facial micro-expression recognition. (MTA 18) [[paper]](https://link.springer.com/article/10.1007/s11042-017-5317-2)
-* A Survey of Automatic Facial Micro-Expression Analysis: Databases, Methods, and Challenges (Frontiers in Psychology) [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01128/full)
+* A Survey of Automatic Facial Micro-Expression Analysis: Databases, Methods, and Challenges. (Frontiers in Psychology 18) [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01128/full)
 
 ### 1.2 Analysis & Study
 
 * Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
-* Micro-expression spotting: A new benchmark (Neurocomputing) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100268X)
+* Micro-expression spotting: A new benchmark (Neurocomputing 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100268X)
 * **[CMR]** Cross-Database Micro-Expression Recognition: A Benchmark (TKDE 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
 
 ### 1.3 Datasets
 
-* **[CAS(ME)^3]** CAS(ME)^3: A Third Generation Facial Spontaneous Micro-Expression Database with Depth Information and High Ecological Validity (TPAMI 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9774929)
+* **[CAS(ME)^3]** CAS(ME)^3: A Third Generation Facial Spontaneous Micro-Expression Database with Depth Information and High Ecological Validity (TPAMI 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9774929) [[link]](http://casme.psych.ac.cn/casme/e4)
 * **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
 * **[MMEW]** Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
-* **[SAMM]** SAMM: A Spontaneous Micro-Facial Movement Dataset (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7492264)
-* **[CAS(ME)^2]** CAS(ME)^2: A database for spontaneous macro-expression and micro-expression spotting and recognition (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7820164)
-* **[CASME2]** CASME II: An improved spontaneous micro-expression database and the baseline evaluation (PLoS ONE) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086041)
-* **[MEVIEW]** Spotting facial micro-expressions “In the Wild” (CVWW 17) [[paper]](https://cmp.felk.cvut.cz/~cechj/ME/)
-* **[CASME]** CASME database: a dataset of spontaneous micro-expressions collected from neutralized faces (FG 13) [[paper]](https://ieeexplore.ieee.org/abstract/document/6553799)
-* **[SMIC]** A spontaneous micro facial expression database: inducement, collection and baseline (FG 13) [[paper]](https://ieeexplore.ieee.org/abstract/document/6553717)
+* **[SAMM-LV]** Samm long videos: A spontaneous facial micro-and macro-expressions dataset. (FG 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9320228/)
+* **[SAMM]** SAMM: A Spontaneous Micro-Facial Movement Dataset (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7492264) [[link]](https://personalpages.manchester.ac.uk/staff/adrian.davison/SAMM.html)
+* **[CAS(ME)^2]** CAS(ME)^2: A database for spontaneous macro-expression and micro-expression spotting and recognition (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7820164) [[link]](http://casme.psych.ac.cn/casme/e3)
+* **[CASME2]** CASME II: An improved spontaneous micro-expression database and the baseline evaluation (PLoS ONE) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086041) [[link]](http://casme.psych.ac.cn/casme/e2)
+* **[MEVIEW]** Spotting facial micro-expressions “In the Wild” (CVWW 17) [[paper]](http://cmp.felk.cvut.cz/ftp/articles/cech/Husak-CVWW-2017.pdf) [[Link]](https://cmp.felk.cvut.cz/~cechj/ME/)
+* **[CASME]** CASME database: a dataset of spontaneous micro-expressions collected from neutralized faces (FG 13) [[paper]](https://ieeexplore.ieee.org/abstract/document/6553799) [[link]](http://casme.psych.ac.cn/casme/e1)
+* **[SMIC]** A spontaneous micro facial expression database: inducement, collection and baseline (FG 13) [[paper]](https://ieeexplore.ieee.org/abstract/document/6553717) [[link]](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis)
 
 ### 1.4 FME/MEGC report
 
@@ -45,21 +49,21 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 1.5 Talk
 
-* CSIG Lecture Series [[link]](https://space.bilibili.com/668807963/video)
-* Intelligent Emotion Perception and Emotional Interface (Zhao Guoying ,Oulu University, Finland)[[link]](https://www.bilibili.com/video/BV1zR4y1M7dw)
-* Face-based Human Understanding: beyond Face Recognition (Han Hu, Hong Xiaopeng)[[link]](https://www.bilibili.com/video/BV1KQ4y1N7JS)
+* CSIG Lecture Series [[link]](https://space.bilibili.com/668807963/video) (Chinese)
+* Intelligent Emotion Perception and Emotional Interface (Zhao Guoying ,Oulu University, Finland) [[link]](https://www.bilibili.com/video/BV1zR4y1M7dw) (Chinese)
+* Face-based Human Understanding: beyond Face Recognition (Han Hu, Hong Xiaopeng) [[link]](https://www.bilibili.com/video/BV1KQ4y1N7JS) (Chinese)
 
 ## 2  Papers <span id='survey'></span>
 
 ### 2022
 
 * **[CAS(ME)^3]** CAS(ME)^3: A Third Generation Facial Spontaneous Micro-Expression Database with Depth Information and High Ecological Validity (TPAMI 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9774929)
-* **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
+* **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
 * Facial Micro-Expression Recognition Based on Deep Local-Holistic Network (*Applied Sciences*) [[paper]](https://www.mdpi.com/2076-3417/12/9/4643)
 
 ### 2021
 
-* **[SLT]** Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition (arxiv) [[paper]](https://arxiv.org/abs/2112.05851)
+* **[SLSTT]** Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition (arxiv) [[paper]](https://arxiv.org/abs/2112.05851)
 
 * **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 
