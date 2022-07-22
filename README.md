@@ -117,11 +117,6 @@ A Github repository and collection of documents, papers, source code, and talks 
 * **[Micro-attention]** Micro-attention for micro-expression recognition ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220309711)
 * **[Dynamic]** Dynamic Micro-Expression Recognition Using Knowledge Distillation (TAFFC) [[paper]](https://ieeexplore.ieee.org/abstract/document/9064925)
 * **[RCN]** Revealing the Invisible With Model and Data Shrinking for Composite-Database Micro-Expression Recognition (TIP) [[paper]](https://ieeexplore.ieee.org/abstract/document/9178431)
-* 
-* 
-* [] () [[paper]]()
-* [] () [[paper]]()
-* [] () [[paper]]()
 
 ### 2019
 
