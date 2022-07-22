@@ -43,6 +43,12 @@ A Github repository and collection of documents, papers, source code, and talks 
 * **[MEGC18]** Facial micro-expressions grand challenge 2018 summary (FG 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8373899)
 * **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 
+### 1.5 Talk
+
+* CSIG Lecture Series [[link]](https://space.bilibili.com/668807963/video)
+* Intelligent Emotion Perception and Emotional Interface (Zhao Guoying ,Oulu University, Finland)[[link]](https://www.bilibili.com/video/BV1zR4y1M7dw)
+* Face-based Human Understanding: beyond Face Recognition (Han Hu, Hong Xiaopeng)[[link]](https://www.bilibili.com/video/BV1KQ4y1N7JS)
+
 ## 2  Papers <span id='survey'></span>
 
 ### 2022
@@ -100,22 +106,22 @@ A Github repository and collection of documents, papers, source code, and talks 
 ### 2020
 
 * **[MEGC]** The Third Facial Micro-Expression Grand Challenge (FG 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9320264)
-
 * **[MMRF]** Learning from Macro-expression: a Micro-expression Recognition Framework (MM 20) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413774)
-
 * **[RIWM]** Revealing the Invisible With Model and Data Shrinking for Composite-Database Micro-Expression Recognition (TIP 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9178431)
-
 * Cross-database micro-expression recognition: A benchmark (TKDE 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
-
-* **[ACMR]** Au-assisted graph attention convolutional network for micro-expression recognition (MM 20) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3414012)
-
+* **[AU-GACN]** Au-assisted graph attention convolutional network for micro-expression recognition (MM 20) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3414012)
 * **[ESGS]** Evaluation of the spatio-temporal features and GAN for micro-expression recognition system (Journal of Signal Processing Systems) [[paper]](https://link.springer.com/article/10.1007/s11265-020-01523-4)
-
 * **[GSMR]** A novel graph-tcn with a graph structured representation for micro-expression recognition (MM 20) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413714)
-
 * **[FRCD]** Automatic 4D Facial Expression Recognition via Collaborative Cross-domain Dynamic Image Network (arxiv) [[paper]](https://arxiv.org/abs/1905.02319)
-
-  
+* **[MER-GCN]** MER-GCN: Micro-Expression Recognition Based on Relation Modeling with Graph Convolutional Networks (MIPR) [[paper]](https://ieeexplore.ieee.org/abstract/document/9175230)
+* **[Micro-attention]** Micro-attention for micro-expression recognition ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220309711)
+* **[Dynamic]** Dynamic Micro-Expression Recognition Using Knowledge Distillation (TAFFC) [[paper]](https://ieeexplore.ieee.org/abstract/document/9064925)
+* **[RCN]** Revealing the Invisible With Model and Data Shrinking for Composite-Database Micro-Expression Recognition (TIP) [[paper]](https://ieeexplore.ieee.org/abstract/document/9178431)
+* 
+* 
+* [] () [[paper]]()
+* [] () [[paper]]()
+* [] () [[paper]]()
 
 ### 2019
 
@@ -135,6 +141,20 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[AMA]** Automatic Micro-Expression Analysis: Open Challenges ([Frontiers in Psychology](https://www.frontiersin.org/journals/psychology)) [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01833/full)
 
+* **[DSSN]** Dual-stream Shallow Networks for Facial Micro-expression Recognition (ICIV) [[paper]](https://ieeexplore.ieee.org/abstract/document/8802965)
+
+* **[CapsuleNet]** CapsuleNet for microexpression recognition (FG) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756544)
+
+* **[Dual-Inception]** Dual-inception network for crossdatabase micro-expression recognition (FG) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756579)
+
+* **[STSTNet]** Shallow triple stream three-dimensional CNN (STSTNet) for micro-expression recognition (FG) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756567)
+
+* **[EMR]** A neural microexpression recognizer (FG) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756583)
+
+* **[ATNET]** A novel apex-time network for cross-dataset micro-expression recognition (ACII) [[paper]](https://ieeexplore.ieee.org/abstract/document/8925525)
+
+* [] () [[paper]]()
+
   
 
 ### 2018
@@ -143,7 +163,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[MAG]** **[HIGO-TOP]** Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
 
-* **[HSD]** Learning from hierarchical spatiotemporal descriptors for micro-expression recognition (TMM 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8328869)
+* **[HSTLBP-IP]** Learning from hierarchical spatiotemporal descriptors for micro-expression recognition (TMM 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8328869)
 
 * **[DRCD]** Domain regeneration for cross-database micro-expression recognition (TIP 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8268553)
 
@@ -193,7 +213,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-Expression Spotting and Recognition Methods (TAFFC 15) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
 
-* **[BPIP]** Facial micro-expression recognition using spatiotemporal local binary pattern with integral projection (ICCV 15) [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015_workshops/w2/html/Huang_Facial_Micro-Expression_Recognition_ICCV_2015_paper.html)
+* **[STLBP-IP]** Facial micro-expression recognition using spatiotemporal local binary pattern with integral projection (ICCV 15) [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015_workshops/w2/html/Huang_Facial_Micro-Expression_Recognition_ICCV_2015_paper.html)
 
 * **[AFS]** Automatic apex frame spotting in micro-expression database (ACPR 15) [[paper]](https://ieeexplore.ieee.org/abstract/document/7486586)
 
