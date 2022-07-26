@@ -25,7 +25,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
 * Micro-expression spotting: A new benchmark (Neurocomputing 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100268X)
-* **[CMR]** Cross-Database Micro-Expression Recognition: A Benchmark (TKDE 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
+* Cross-Database Micro-Expression Recognition: A Benchmark (TKDE 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
 
 ### 1.3 Datasets
 
@@ -42,12 +42,19 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 1.4 FME/MEGC report
 
+* **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 * **[MEGC20]** The Third Facial Micro-Expression Grand Challenge (FG 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9320264)
 * **[MEGC19]** The Second Facial Micro-Expressions Grand Challenge (FG 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756611)
 * **[MEGC18]** Facial micro-expressions grand challenge 2018 summary (FG 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8373899)
-* **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 
-### 1.5 Talk
+### 1.5 Psychological Foudations
+
+* Rinn, W.E., (1984). The neuropsychology of facial expression: a review of the neurological and psychological mechanisms for producing facial expressions. Psychological bulletin, 95(1), p.52. [[paper]](https://psycnet.apa.org/record/1984-11565-001)
+* P. Ekman, (2003). Darwin, deception, and facial expression, Annals of the New York Academy of Sciences, vol. 1000, no. 1, pp. 205–221. [[paper]](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1280.010?casa_token=wPh-av-9sIQAAAAA%3APtjZl8iA7nt2YUDouEOYT7-HsBs-8nSi7zDNlujUdqy2cj3ZmsXYYwTeNR4Ebgi0zUDcaLQzaMbqmPrk)
+* Ekman P, Friesen W V. (1969). Nonverbal leakage and clues to deception. Psychiatry, 32(1): 88-106. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/00332747.1969.11023575?journalCode=upsy20)
+* Haggard, E., and Isaacs, K. (1966). Micromomentary facial expressions as indicators of ego mechanisms in psychotherapy, in Methods of Research in Psychotherapy, eds L. A. Gottschalk and A. H. Auerbach (New York, NY: Appleton-Century-Crofts, 154–165. [[paper]](https://link.springer.com/chapter/10.1007/978-1-4684-6045-2_14)
+
+### 1.6 Talk
 
 * CSIG Lecture Series [[link]](https://space.bilibili.com/668807963/video) (Chinese)
 * Intelligent Emotion Perception and Emotional Interface (Zhao Guoying ,Oulu University, Finland) [[link]](https://www.bilibili.com/video/BV1zR4y1M7dw) (Chinese)
