@@ -105,6 +105,10 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
 
+* **[MESNet]** MESNet: A Convolutional Neural Network for Spotting Multi-Scale Micro-Expression Intervals in Long Videos (TIP) [[paper]](https://ieeexplore.ieee.org/abstract/document/9392303)
+
+* 
+
   
 
 ### 2020
@@ -177,6 +181,8 @@ A Github repository and collection of documents, papers, source code, and talks 
 * **[CAS(ME)^2]** CAS(ME)^2: A database for spontaneous macro-expression and micro-expression spotting and recognition (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7820164)
 
 * **[MSAF]** Can Micro-Expression be Recognized Based on Single Apex Frame? (ICIP 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8451376)
+
+* Micro-expression recognition with small sample size by transferring long-term convolutional neural network ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231218307045)
 
   
 
