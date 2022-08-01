@@ -5,7 +5,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 **Keywords:** Micro-expression Recognition, Micro-expression Detection, Micro-expression analysis
 
 > **CATALOGUE**
-   
+
 ## 1  Survey <span id='survey'></span>
 
 ### 1.1 Surveys
@@ -114,7 +114,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[MESNet]** MESNet: A Convolutional Neural Network for Spotting Multi-Scale Micro-Expression Intervals in Long Videos (TIP) [[paper]](https://ieeexplore.ieee.org/abstract/document/9392303)
 
-* 
+* Identity-free facial expression recognition using conditional generative adversarial network (ICIP 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9506593)
 
   
 
@@ -132,6 +132,9 @@ A Github repository and collection of documents, papers, source code, and talks 
 * **[Micro-attention]** Micro-attention for micro-expression recognition ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220309711)
 * **[Dynamic]** Dynamic Micro-Expression Recognition Using Knowledge Distillation (TAFFC) [[paper]](https://ieeexplore.ieee.org/abstract/document/9064925)
 * **[RCN]** Revealing the Invisible With Model and Data Shrinking for Composite-Database Micro-Expression Recognition (TIP) [[paper]](https://ieeexplore.ieee.org/abstract/document/9178431)
+* **[ExprGAN]** Exprgan: Facial expression editing with controllable expression intensity (Journal of Signal Processing Systems)[[paper]](https://www.springer.com/journal/11265)
+* **[EF-GAN]** Cascade EF-GAN: Progressive Facial Expression Editing With Local Focuses (CVPR 20) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Cascade_EF-GAN_Progressive_Facial_Expression_Editing_With_Local_Focuses_CVPR_2020_paper.html)
+* Au-assisted graph attention convolutional network for micro-expression recognition (MM 20) [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3414012)
 
 ### 2019
 
@@ -163,7 +166,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[ATNET]** A novel apex-time network for cross-dataset micro-expression recognition (ACII) [[paper]](https://ieeexplore.ieee.org/abstract/document/8925525)
 
-* [] () [[paper]]()
+* Analyzing and reducing the damage of dataset bias to face recognition with synthetic data (CVPR 19) [[paper]](https://openaccess.thecvf.com/content_CVPRW_2019/html/BEFA/Kortylewski_Analyzing_and_Reducing_the_Damage_of_Dataset_Bias_to_Face_CVPRW_2019_paper.html)
 
   
 
@@ -190,6 +193,8 @@ A Github repository and collection of documents, papers, source code, and talks 
 * **[MSAF]** Can Micro-Expression be Recognized Based on Single Apex Frame? (ICIP 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8451376)
 
 * Micro-expression recognition with small sample size by transferring long-term convolutional neural network ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231218307045)
+
+* Joint pose and expression modeling for facial expression recognition (CVPR 18) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Joint_Pose_and_CVPR_2018_paper.html)
 
   
 
