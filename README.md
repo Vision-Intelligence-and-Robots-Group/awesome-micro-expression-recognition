@@ -168,6 +168,8 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * Analyzing and reducing the damage of dataset bias to face recognition with synthetic data (CVPR 19) [[paper]](https://openaccess.thecvf.com/content_CVPRW_2019/html/BEFA/Kortylewski_Analyzing_and_Reducing_the_Damage_of_Dataset_Bias_to_Face_CVPRW_2019_paper.html)
 
+* Spontaneous Facial Micro-Expression Recognition using 3D Spatiotemporal Convolutional Neural Networks (IJCNN) [[paper]](https://ieeexplore.ieee.org/abstract/document/8852419) [[Github]](https://github.com/IcedDoggie/Micro-Expression-with-Deep-Learning)]
+
   
 
 ### 2018
