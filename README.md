@@ -64,13 +64,13 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 2022
 
+* Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition (TAFFC) [[paper]](https://arxiv.org/abs/2112.05851)
 * **[CAS(ME)^3]** CAS(ME)^3: A Third Generation Facial Spontaneous Micro-Expression Database with Depth Information and High Ecological Validity (TPAMI 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9774929)
+* A Sparse-Based Transformer Network with Associated Spatiotemporal Feature for Micro-Expression Recognition (SPL) [[paper]](https://ieeexplore.ieee.org/document/9906452/authors#authors)
 * **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
 * Facial Micro-Expression Recognition Based on Deep Local-Holistic Network (*Applied Sciences*) [[paper]](https://www.mdpi.com/2076-3417/12/9/4643)
 
 ### 2021
-
-* **[SLSTT]** Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition (arxiv) [[paper]](https://arxiv.org/abs/2112.05851)
 
 * **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 
