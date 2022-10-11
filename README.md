@@ -148,9 +148,9 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * **[OMRS]** Off-ApexNet on Micro-Expression Recognition System (Signal Processing: Image Communication) [[paper]](https://www.sciencedirect.com/science/article/pii/S0923596518310038)
 
-* **[CSRM]** Characterizing Subtle Facial Movements via Riemannian Manifold (*ACM Transactions on Multimedia Computing, Communications, and Applications*) [[paper]](https://dl.acm.org/doi/abs/10.1145/3342227)
+* **[CSRM]** Characterizing Subtle Facial Movements via Riemannian Manifold (*ACM Transactions on Multimedia Computing, Communications, and Applications*) [[paper]](https://dl.acm.org/doi/abs/10.1145/3342227)[[code]](https://github.com/Vision-Intelligence-and-Robots-Group/Consolidated-Eulerian-Video-Magnification-and-Interpolation)
 
-* **[BREF]** A boost in revealing subtle facial expressions: A consolidated eulerian framework (FG 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756541)
+* **[BREF]** A boost in revealing subtle facial expressions: A consolidated eulerian framework (FG 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756541)[[code]](https://github.com/Vision-Intelligence-and-Robots-Group/Consolidated-Eulerian-Video-Magnification-and-Interpolation)
 
 * **[AMA]** Automatic Micro-Expression Analysis: Open Challenges ([Frontiers in Psychology](https://www.frontiersin.org/journals/psychology)) [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01833/full)
 
