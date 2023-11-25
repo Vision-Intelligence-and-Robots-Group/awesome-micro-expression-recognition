@@ -72,7 +72,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 * A Sparse-Based Transformer Network with Associated Spatiotemporal Feature for Micro-Expression Recognition (SPL) [[paper]](https://ieeexplore.ieee.org/document/9906452/authors#authors)
 * **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
 * Facial Micro-Expression Recognition Based on Deep Local-Holistic Network (*Applied Sciences*) [[paper]](https://www.mdpi.com/2076-3417/12/9/4643)
-* Mimicking the Annotation Process for Recognizing the Micro Expressions[[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548185)
+* Mimicking the Annotation Process for Recognizing the Micro Expressions (MM 22) [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548185)
 * **[MMNet]** MMNet: Muscle motion-guided network for micro-expression recognition (IJCAI-22) [[paper]](https://www.ijcai.org/proceedings/2022/0150.pdf)
 * Objective Class-Based Micro-Expression Recognition Under Partial Occlusion Via Region-Inspired Relation Reasoning Network (TAC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9854172)
 ### 2021
