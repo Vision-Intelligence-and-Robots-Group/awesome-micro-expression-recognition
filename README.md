@@ -62,6 +62,9 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ## 2  Papers <span id='survey'></span>
 
+### 2023
+* **[Micron-BERT]** Micron-BERT: BERT-Based Facial Micro-Expression Recognition (CVPR 23) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Nguyen_Micron-BERT_BERT-Based_Facial_Micro-Expression_Recognition_CVPR_2023_paper.html)
+* Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition (CVPR 23) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhai_Feature_Representation_Learning_With_Adaptive_Displacement_Generation_and_Transformer_Fusion_CVPR_2023_paper.html)
 ### 2022
 
 * Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition (TAFFC) [[paper]](https://arxiv.org/abs/2112.05851)
@@ -69,7 +72,9 @@ A Github repository and collection of documents, papers, source code, and talks 
 * A Sparse-Based Transformer Network with Associated Spatiotemporal Feature for Micro-Expression Recognition (SPL) [[paper]](https://ieeexplore.ieee.org/document/9906452/authors#authors)
 * **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
 * Facial Micro-Expression Recognition Based on Deep Local-Holistic Network (*Applied Sciences*) [[paper]](https://www.mdpi.com/2076-3417/12/9/4643)
-
+* Mimicking the Annotation Process for Recognizing the Micro Expressions[[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548185)
+* **[MMNet]** MMNet: Muscle motion-guided network for micro-expression recognition (IJCAI-22) [[paper]](https://www.ijcai.org/proceedings/2022/0150.pdf)
+* Objective Class-Based Micro-Expression Recognition Under Partial Occlusion Via Region-Inspired Relation Reasoning Network (TAC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9854172)
 ### 2021
 
 * **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
