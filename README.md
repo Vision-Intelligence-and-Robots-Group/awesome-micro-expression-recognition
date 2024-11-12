@@ -10,6 +10,10 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ### 1.1 Surveys
 
+* Understanding Deep Learning Techniques for Recognition of Human Emotions Using Facial Expressions: A Comprehensive Survey (IEEE Transactions on Instrumentation and Measurement 23) [[paper]](https://doi.org/10.1109/TIM.2023.3243661)
+* Facial Micro-Expressions: An Overview (Proceedings of the IEEE 23) [[paper]](https://doi.org/10.1109/JPROC.2023.3275192)
+* Data Leakage and Evaluation Issues in Micro-Expression Analysis (TAC 24) [[paper]](https://doi.org/10.1109/TAFFC.2023.3265063)
+* Unlocking the Emotional World of Visual Media: An Overview of the Science, Research, and Impact of Understanding Emotion (IEEE Proceedings 23) [[paper]](https://doi.org/10.1109/JPROC.2023.3273517)
 * An overview of facial micro-expression analysis: Data, methodology and challenge. (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9684697/)
 * An overview of research development of affective computing and understanding. (JIG 22, most in Chinese) [[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20220614)
 * Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms. (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
@@ -22,13 +26,17 @@ A Github repository and collection of documents, papers, source code, and talks 
 * A Survey of Automatic Facial Micro-Expression Analysis: Databases, Methods, and Challenges. (Frontiers in Psychology 18) [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01128/full)
 
 ### 1.2 Analysis & Study
-
+* Integrating VideoMAE based model and Optical Flow for Micro- and Macro-expression Spotting (ACM MM 23) [[paper]](https://doi.org/10.1145/3581783.3612868)
+* Deep Learning Pipeline for Spotting Macro- and Micro-expressions in Long Video Sequences Based on Action Units and Optical Flow (Pattern Recognition Letters 23) [[paper]](https://doi.org/10.1016/j.patrec.2022.12.001)
+* Temporal Augmented Contrastive Learning for Micro-Expression Recognition (Pattern Recognition Letters 23) [[paper]](https://doi.org/10.1016/j.patrec.2023.02.003)
+* Temporal-Informative Adapters in VideoMAE V2 and Multi-Scale Feature Fusion for Micro-Expression Spotting-then-Recognize (ACM MM 24) [[paper]](https://doi.org/10.1145/3664647.3689141)
 * Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods (TAFFC 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/7851001)
 * Micro-expression spotting: A new benchmark (Neurocomputing 21) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100268X)
 * Cross-Database Micro-Expression Recognition: A Benchmark (TKDE 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9057390)
 
 ### 1.3 Datasets
-
+* **[DFME]** DFME: A New Benchmark for Dynamic Facial Micro-Expression Recognition (TAC 24) [[paper]](https://doi.org/10.1109/TAFFC.2023.3341918)
+* **[SMG]** SMG: A Micro-gesture Dataset Towards Spontaneous Body Gestures for Emotional Stress State Analysis (IJCV 23) [[paper]](https://doi.org/10.1007/s11263-023-01761-6)
 * **[CAS(ME)^3]** CAS(ME)^3: A Third Generation Facial Spontaneous Micro-Expression Database with Depth Information and High Ecological Validity (TPAMI 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9774929) [[link]](http://casme.psych.ac.cn/casme/e4)
 * **[4DME]** 4DME: A Spontaneous 4D Micro-Expression Dataset With Multimodalities (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9796028)
 * **[MMEW]** Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
@@ -41,17 +49,17 @@ A Github repository and collection of documents, papers, source code, and talks 
 * **[SMIC]** A spontaneous micro facial expression database: inducement, collection and baseline (FG 13) [[paper]](https://ieeexplore.ieee.org/abstract/document/6553717) [[link]](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis)
 
 ### 1.4 FME/MEGC report
-
+* **[FME]** FME '23: 3rd Facial Micro-Expression Workshop (ACM MM 23) [[paper]](https://doi.org/10.1145/3581783.3610948)
+* **[MEGC23]** MEGC2023: ACM Multimedia 2023 Micro-Expression Grand Challenge (MM 23) [[paper]](https://doi.org/10.1145/3581783.3612833)
 * **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 * **[MEGC20]** The Third Facial Micro-Expression Grand Challenge (FG 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9320264)
 * **[MEGC19]** The Second Facial Micro-Expressions Grand Challenge (FG 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756611)
 * **[MEGC18]** Facial micro-expressions grand challenge 2018 summary (FG 18) [[paper]](https://ieeexplore.ieee.org/abstract/document/8373899)
 
 ### 1.5 Psychological Foudations
-
+* Ekman P, Friesen W V. (1969). Nonverbal leakage and clues to deception. Psychiatry, 32(1): 88-106. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/00332747.1969.11023575?journalCode=upsy20)
 * Rinn, W.E., (1984). The neuropsychology of facial expression: a review of the neurological and psychological mechanisms for producing facial expressions. Psychological bulletin, 95(1), p.52. [[paper]](https://psycnet.apa.org/record/1984-11565-001)
 * P. Ekman, (2003). Darwin, deception, and facial expression, Annals of the New York Academy of Sciences, vol. 1000, no. 1, pp. 205–221. [[paper]](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1280.010?casa_token=wPh-av-9sIQAAAAA%3APtjZl8iA7nt2YUDouEOYT7-HsBs-8nSi7zDNlujUdqy2cj3ZmsXYYwTeNR4Ebgi0zUDcaLQzaMbqmPrk)
-* Ekman P, Friesen W V. (1969). Nonverbal leakage and clues to deception. Psychiatry, 32(1): 88-106. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/00332747.1969.11023575?journalCode=upsy20)
 * Haggard, E., and Isaacs, K. (1966). Micromomentary facial expressions as indicators of ego mechanisms in psychotherapy, in Methods of Research in Psychotherapy, eds L. A. Gottschalk and A. H. Auerbach (New York, NY: Appleton-Century-Crofts, 154–165. [[paper]](https://link.springer.com/chapter/10.1007/978-1-4684-6045-2_14)
 
 ### 1.6 Talk
@@ -62,9 +70,21 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ## 2  Papers <span id='survey'></span>
 
+### 2024
+* DFME: A New Benchmark for Dynamic Facial Micro-Expression Recognition (TAC 24) [[paper]](https://doi.org/10.1109/TAFFC.2023.3341918)
+* Facial Prior Guided Micro-Expression Generation (TIP 24) [[paper]](https://doi.org/10.1109/TIP.2023.3345177)
+* Temporal-Informative Adapters in VideoMAE V2 and Multi-Scale Feature Fusion for Micro-Expression Spotting-then-Recognize (ACM MM 24) [[paper]](https://doi.org/10.1145/3664647.3689141)
+* Data Leakage and Evaluation Issues in Micro-Expression Analysis (TAC 24) [[paper]](https://doi.org/10.1109/TAFFC.2023.3265063)
+
 ### 2023
 * **[Micron-BERT]** Micron-BERT: BERT-Based Facial Micro-Expression Recognition (CVPR 23) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Nguyen_Micron-BERT_BERT-Based_Facial_Micro-Expression_Recognition_CVPR_2023_paper.html)
 * Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition (CVPR 23) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhai_Feature_Representation_Learning_With_Adaptive_Displacement_Generation_and_Transformer_Fusion_CVPR_2023_paper.html)
+* Integrating VideoMAE based model and Optical Flow for Micro- and Macro-expression Spotting (ACM MM 23) [[paper]](https://doi.org/10.1145/3581783.3612868)
+* Temporal Augmented Contrastive Learning for Micro-Expression Recognition (Pattern Recognition Letters 23) [[paper]](https://doi.org/10.1016/j.patrec.2023.02.003)
+* AVES: An Audio-Visual Emotion Stream Dataset for Temporal Emotion Detection (TAC 23) [[paper]](https://doi.org/10.1109/TAFFC.2024.3440924)
+* Facial Micro-Expressions: An Overview (Proceedings of the IEEE 23) [[paper]](https://doi.org/10.1109/JPROC.2023.3275192)
+* Deep Learning Pipeline for Spotting Macro- and Micro-expressions in Long Video Sequences Based on Action Units and Optical Flow (Pattern Recognition Letters 23) [[paper]](https://doi.org/10.1016/j.patrec.2022.12.001)
+  
 ### 2022
 
 * Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition (TAFFC) [[paper]](https://arxiv.org/abs/2112.05851)
