@@ -12,7 +12,6 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 * Understanding Deep Learning Techniques for Recognition of Human Emotions Using Facial Expressions: A Comprehensive Survey (IEEE Transactions on Instrumentation and Measurement 23) [[paper]](https://doi.org/10.1109/TIM.2023.3243661)
 * Facial Micro-Expressions: An Overview (Proceedings of the IEEE 23) [[paper]](https://doi.org/10.1109/JPROC.2023.3275192)
-* Data Leakage and Evaluation Issues in Micro-Expression Analysis (TAC 24) [[paper]](https://doi.org/10.1109/TAFFC.2023.3265063)
 * Unlocking the Emotional World of Visual Media: An Overview of the Science, Research, and Impact of Understanding Emotion (IEEE Proceedings 23) [[paper]](https://doi.org/10.1109/JPROC.2023.3273517)
 * An overview of facial micro-expression analysis: Data, methodology and challenge. (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9684697/)
 * An overview of research development of affective computing and understanding. (JIG 22, most in Chinese) [[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20220614)
@@ -26,6 +25,7 @@ A Github repository and collection of documents, papers, source code, and talks 
 * A Survey of Automatic Facial Micro-Expression Analysis: Databases, Methods, and Challenges. (Frontiers in Psychology 18) [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01128/full)
 
 ### 1.2 Analysis & Study
+* Data Leakage and Evaluation Issues in Micro-Expression Analysis (TAC 24) [[paper]](https://doi.org/10.1109/TAFFC.2023.3265063)
 * Integrating VideoMAE based model and Optical Flow for Micro- and Macro-expression Spotting (ACM MM 23) [[paper]](https://doi.org/10.1145/3581783.3612868)
 * Deep Learning Pipeline for Spotting Macro- and Micro-expressions in Long Video Sequences Based on Action Units and Optical Flow (Pattern Recognition Letters 23) [[paper]](https://doi.org/10.1016/j.patrec.2022.12.001)
 * Temporal Augmented Contrastive Learning for Micro-Expression Recognition (Pattern Recognition Letters 23) [[paper]](https://doi.org/10.1016/j.patrec.2023.02.003)
