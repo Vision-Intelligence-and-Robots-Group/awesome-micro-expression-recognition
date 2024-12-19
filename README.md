@@ -11,10 +11,10 @@ A Github repository and collection of documents, papers, source code, and talks 
 ### 1.1 Surveys
 
 * Understanding Deep Learning Techniques for Recognition of Human Emotions Using Facial Expressions: A Comprehensive Survey (IEEE Transactions on Instrumentation and Measurement 23) [[paper]](https://doi.org/10.1109/TIM.2023.3243661)
-* Facial Micro-Expressions: An Overview (Proceedings of the IEEE 23) [[paper]](https://doi.org/10.1109/JPROC.2023.3275192)
+* Facial Micro-Expressions: An Overview (IEEE Proceedings 23) [[paper]](https://doi.org/10.1109/JPROC.2023.3275192)
 * Unlocking the Emotional World of Visual Media: An Overview of the Science, Research, and Impact of Understanding Emotion (IEEE Proceedings 23) [[paper]](https://doi.org/10.1109/JPROC.2023.3273517)
 * An overview of facial micro-expression analysis: Data, methodology and challenge. (TAFFC 22) [[paper]](https://ieeexplore.ieee.org/abstract/document/9684697/)
-* An overview of research development of affective computing and understanding. (JIG 22, most in Chinese) [[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20220614)
+* An overview of research development of affective computing and understanding. (JIG 22) [[paper]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20220614)
 * Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms. (TPAMI 21) [[paper]](https://ieeexplore.ieee.org/abstract/document/9382112)
 * Review of automatic microexpression recognition in the past decade. (Machine Learning and Knowledge Extraction 21)[[paper]](https://www.mdpi.com/2504-4990/3/2/21)
 * Deep Learning for Micro-expression Recognition: A Survey. (arXiv 21) [[paper]](https://arxiv.org/abs/2107.02823)
