@@ -293,4 +293,4 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ## 8 Contact Us <span id='contact-us'></span>
 
-Should there be any concerns on this page, please don't hesitate to let us know via [hongxiaopeng@ieee.org](mailto:hongxiaopeng@ieee.org)
+Should there be any concerns on this page, please don't hesitate to let us know via [hongxiaopeng@ieee.org](mailto:hongxiaopeng@ieee.org) or [quenlenu@gmail.com](mailto:quenlenu@gmail.com) 
