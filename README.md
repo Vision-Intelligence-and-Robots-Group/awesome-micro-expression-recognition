@@ -49,8 +49,10 @@ A Github repository and collection of documents, papers, source code, and talks 
 * **[SMIC]** A spontaneous micro facial expression database: inducement, collection and baseline (FG 13) [[paper]](https://ieeexplore.ieee.org/abstract/document/6553717) [[link]](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis)
 
 ### 1.4 FME/MEGC report
+* **[MEGC2025]** MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering [[paper]](https://arxiv.org/abs/2506.15298)
+* **[MEGC2024]** MEGC2024: ACM Multimedia 2024 Facial Micro-Expression Grand Challenge (ACM MM 24) [[paper]](https://arxiv.org/abs/2506.15298](https://dl.acm.org/doi/abs/10.1145/3664647.3689140)
 * **[FME]** FME '23: 3rd Facial Micro-Expression Workshop (ACM MM 23) [[paper]](https://doi.org/10.1145/3581783.3610948)
-* **[MEGC23]** MEGC2023: ACM Multimedia 2023 Micro-Expression Grand Challenge (MM 23) [[paper]](https://doi.org/10.1145/3581783.3612833)
+* **[MEGC23]** MEGC2023: ACM Multimedia 2023 Micro-Expression Grand Challenge (ACM MM 23) [[paper]](https://doi.org/10.1145/3581783.3612833)
 * **[FME]** 1st Workshop on Facial Micro-Expression: Advanced Techniques for Facial Expressions Generation and Spotting (MM 21) [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3478579)
 * **[MEGC20]** The Third Facial Micro-Expression Grand Challenge (FG 20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9320264)
 * **[MEGC19]** The Second Facial Micro-Expressions Grand Challenge (FG 19) [[paper]](https://ieeexplore.ieee.org/abstract/document/8756611)
