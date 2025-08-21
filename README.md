@@ -70,6 +70,14 @@ A Github repository and collection of documents, papers, source code, and talks 
 
 ## 2  Papers <span id='survey'></span>
 
+
+### 2025
+* **[IMER]** A Benchmark for Incremental Micro-expression Recognition (arXiv) [[paper]](https://arxiv.org/abs/2501.19111)
+* Dynamic Stereotype Theory Induced Micro-expression Recognition with Oriented Deformation (CVPR 25) [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Dynamic_Stereotype_Theory_Induced_Micro-expression_Recognition_with_Oriented_Deformation_CVPR_2025_paper.html)
+* **[MOL]** MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution (TPAMI 25) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11045217)
+* Weakly Supervised Micro- and Macro-Expression Spotting Based on Multi-Level Consistency (TPAMI 25) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10979496)
+* **[MELLM]** MELLM: Exploring LLM-Powered Micro-Expression Understanding Enhanced by Subtle Motion Perception (arXiv) [[paper]](https://arxiv.org/abs/2505.07007)
+
 ### 2024
 * DFME: A New Benchmark for Dynamic Facial Micro-Expression Recognition (TAC 24) [[paper]](https://doi.org/10.1109/TAFFC.2023.3341918)
 * Facial Prior Guided Micro-Expression Generation (TIP 24) [[paper]](https://doi.org/10.1109/TIP.2023.3345177)
